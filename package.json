@@ -1,7 +1,7 @@
 {
   "name": "grunt-markdown-to-json",
   "description": "Extract YAML front-matter from Markdown files to a single JSON file",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "homepage": "https://github.com/scottstanfield/grunt-markdown-to-json",
   "author": {
     "name": "Scott Stanfield",
@@ -34,7 +34,7 @@
     "grunt": "~0.4.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.0"
   },
   "keywords": [
     "gruntplugin",
