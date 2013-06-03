@@ -36,7 +36,7 @@ guide, as it explains how to create a
 use Grunt plugins. Once you're familiar with that process, you may
 install this plugin with this command:
 
-	% npm install grunt-m2j --save-dev
+	% npm install grunt-markdown-to-json --save-dev
 
 The plugin should load automatically, since your Gruntfile.js parses
 your package.json, which has a reference to the library.
